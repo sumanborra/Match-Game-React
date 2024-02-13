@@ -1,0 +1,20 @@
+.buttn {
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+  border-width: 0px;
+  color: #ffffff;
+}
+.tablist-text-para {
+  font-family: 'Roboto';
+  font-size: 32px;
+}
+.horizantal-line {
+  border: 2px solid;
+}
+.list-item {
+  margin-right: 100px;
+}
+.active-button {
+  color: #fec653;
+}
